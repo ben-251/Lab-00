@@ -19,7 +19,7 @@ We set up the data frame. Edit the data below to include information about your 
 team_data <- tibble(
   name = c("Ben", "Dylan","Jamie","Adam","Gandom", "Yara"),
   github_username = c("ben-251", "dylanhobman", "jamieewen", 
-                      "abdel23", "Gand0m", "yarakanaann"), 
+                      "adcel23", "Gand0m", "yarakanaann"), 
   colour = c("plum", "green","blue", "white", 
              "red", "peachpuff"),
   hobby = c("badminton","football", "skiing", "football", "football", "basketball"),
@@ -45,7 +45,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+A bar graph of the preferred hobbies
 
 ### Exercises 19
 
